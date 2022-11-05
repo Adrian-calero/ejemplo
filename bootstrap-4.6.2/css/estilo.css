@@ -1,0 +1,152 @@
+.bg-dark-1{
+    background-color: #212121;
+  }
+  .bg-dark-oscuro{
+    background-color: #252525;
+  }
+  
+  .bg-dark-oscurito{
+    background-color: #1a191993;
+  }
+  
+  .bg-black{
+    background-color: #121416;
+  }
+  
+  .bg-black-1{
+    background-color: #181818;
+  }
+  
+  
+  .bg-gray-1{
+    background-color: #726b6bec;
+  }
+  
+  .bg-red-claro{
+    background-color: #901010b0;
+  }
+  
+  .facebook{
+    background-color: #3b5998 ;
+  }
+  
+  .Twitter{
+  background-color:#00acee ;
+  } 
+  
+  .youtube{
+    background: #CC181E;
+  }
+  
+  .border-caja{
+    border: 4px solid #fa320f;
+  }
+  .margin-tod{
+
+    padding-top: 1px;
+    margin-top: 7px;
+    
+    
+    }
+
+.border-sup{
+  border-bottom: 9px #121416 solid;
+}
+  .border-iz{
+    border-right: 15px #121416 solid;
+    }
+    
+.base-b{
+  border-bottom-right-radius: 40px;
+  border-bottom-left-radius: 40px;
+}
+
+.base-t{
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+}
+
+
+.border-radius-r{
+  border-top-right-radius: 40px;
+}
+.border-radius-xy{
+border-radius:80px;
+}
+ 
+.border-radius-r-5{
+  border-top-right-radius: 120px;
+  border-bottom-left-radius: 120px;
+}
+
+.border-radius-l{
+  border-bottom-right-radius: 40px;
+}
+.bg-fondo{
+  background-color: #1b1919;
+}
+
+.bg-marron{
+  background-color: #443927;
+}
+
+.bg-azul-claro{
+  background-color: #174f8a;
+}
+
+.bg-texto{
+  background-color: #292725;
+}
+
+.logo{
+width: 250px;
+
+}
+.bg-dark-1{
+  background-color: #212121;
+}
+.bg-dark-oscuro{
+  background-color: #252525;
+}
+
+.bg-dark-oscurito{
+  background-color: #1a191993;
+}
+
+.bg-black{
+  background-color: #121416;
+}
+
+.bg-black-1{
+  background-color: #181818;
+}
+
+
+.bg-gray-1{
+  background-color: #726b6bec;
+}
+
+.bg-red-claro{
+  background-color: #901010b0;
+}
+
+.facebook{
+  background-color: #3b5998 ;
+}
+
+.Twitter{
+background-color:#00acee ;
+} 
+
+.youtube{
+  background: #CC181E;
+}
+
+.border-caja{
+  border: 4px solid #fa320f;
+}
+
+.caja-principal{
+  width: 200px;
+  height: 460px;
+}

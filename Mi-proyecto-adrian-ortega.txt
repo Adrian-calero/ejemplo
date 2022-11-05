@@ -1,0 +1,5 @@
+Quiero realizar una pagina web  sobre una clinica veterinaria
+la cual le permita al usuario interactuar por medio de consultas
+ya sea sobre  su mascota o comprar un producto en el apartado llamado
+( Tienda ) EN LA IMAGEN ( mi-proyecto-Adrian-ortega.png )
+se puede apreciar mejor mi idea.
